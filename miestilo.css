@@ -1,0 +1,37 @@
+body {
+  background-color:#F9EBEA;
+}
+
+h1 {
+  color:#000000;
+  text-align: center;
+}
+
+p {
+  font-family: Times New Roman;
+  font-size: 20px;
+}
+
+.menu  {
+    width: 20%;
+	float: left;
+	border: 1px dotted purple;
+	margin-right: 1em;
+	padding: 1em;
+	background-color:#D5F5E3;
+}
+.caja  {
+    width: 20%;
+	float: right;
+	border: 1px dotted pink;
+	margin-left: 1em;
+	padding: 1em;
+	background-color:#D7BDE2;
+}
+
+
+.contenido  {
+  width: 45%;
+  float: left;
+  background-color:#E39DCE;
+}
